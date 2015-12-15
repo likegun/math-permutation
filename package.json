@@ -1,0 +1,27 @@
+{
+  "name": "math-permutation",
+  "version": "1.0.0",
+  "description": "数学排列/math-permutation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/likegun/math-permutation.git"
+  },
+  "keywords": [
+    "math",
+    "permutation"
+  ],
+  "author": "王如锵",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/likegun/math-permutation/issues"
+  },
+  "homepage": "https://github.com/likegun/math-permutation",
+  "dependencies": {
+    "chai": "^3.4.1",
+    "lodash": "^3.10.1"
+  }
+}
